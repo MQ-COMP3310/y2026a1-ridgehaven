@@ -15,6 +15,7 @@ TicTacDoh is a Tic Tac Toe game built in Python. This project is designed as an 
 ```bash
 brew install python-tk@3.9
 ```
+Note: check what version of python you have installed and adjust the command accordingly, e.g. if you have python 3.10 then you may need to run "brew install python-tk@3.10" instead.
 
 **Ubuntu/Debian:**
 ```bash
